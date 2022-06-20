@@ -9,9 +9,7 @@
 CODE<br>
 REPEAT</h3><br>
 
-- 🐱‍👤 I’m currently working on **.Net, Angular, Machine learning, Deeplearning, Data Science, JavaScript, Data Structure**
-
-- 🎯 I’m currently learning **Deeplearning, Data Sciencee**
+- 🐱‍👤 I’m currently working and learing on **.Net, Angular, Vue, React, Javascript, Java, RabbitMQ, Design Pattern, Microservices, SQL, Docker, Merchine Learning, NLP**
 
 - 💪 How to reach me **vhieukk20000@gmail.com**
 
