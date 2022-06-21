@@ -28,7 +28,7 @@ REPEAT</h3><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/diep-le-van-014019167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/diep-le-van-014019167/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/van-hieu-nguyen-275869212/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/van-hieu-nguyen-275869212/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nguyen.vanhieu.16100921" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="flexncode" height="30" width="40" /></a>
 </p>
 
