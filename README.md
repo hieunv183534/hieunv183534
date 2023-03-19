@@ -9,7 +9,7 @@
 CODE<br>
 REPEAT</h3><br>
 
-- 🐱‍👤 I’m currently working and learing on **.Net, Angular, Vue, React, Javascript, Java, RabbitMQ, Design Pattern, Microservices, SQL, Docker, Merchine Learning, NLP**
+- 🐱‍👤 I’m currently working and learing on **.Net, Angular, Vue, React, Javascript, Java, RabbitMQ, Design Pattern, Microservices, SQL, Docker**
 
 - 💪 How to reach me **vhieukk20000@gmail.com**
 
