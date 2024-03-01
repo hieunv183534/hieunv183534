@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm HieuNV </>.</h1>
+<a href="http://thebooks.pro">My Blog</a>
 <img  src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!--    <img align="right" alt="GIF" src="https://github.com/dieptran43/dieptran43/blob/main/developer.gif" width="550" height="410" /> -->
 
 <p align="left">   
